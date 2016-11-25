@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      $array = array("Egg", "Tomato", "Beans");
+      $array = array("fitri", "nur", "ivaviany");
     ?>    
   </body>
 </html>
