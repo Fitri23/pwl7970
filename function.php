@@ -1,10 +1,9 @@
 <html>
-  <head>
-    <title>Woot, Arrays!</title>
-  </head>
-  <body>
+  <p>
     <?php
-      $array = array("Egg", "Tomato", "Beans");
-    ?>    
-  </body>
-</html>
+    // Get the length of your own name
+    // and print it to the screen!
+    echo strlen("Fitri");
+    ?>
+  </p>
+</html>>
